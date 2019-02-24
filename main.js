@@ -40,13 +40,13 @@ function myFunction(){
     if (document.documentElement.scrollTop > 1550){
       project4.classList.add('geserkiri');
       caption4.classList.add('naik');
-            if (document.documentElement.scrollTop > 1950){
+            if (document.documentElement.scrollTop > 1850){
       project5.classList.add('geserkanan');
       caption5.classList.add('turun');
-      if (document.documentElement.scrollTop > 2250){
+      if (document.documentElement.scrollTop > 2150){
         project6.classList.add('geserkiri');
         caption6.classList.add('naik');
-              if (document.documentElement.scrollTop > 2650){
+              if (document.documentElement.scrollTop > 2550){
         project7.classList.add('geserkanan');
         caption7.classList.add('turun');
     }
